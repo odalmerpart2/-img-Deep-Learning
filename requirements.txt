@@ -1,0 +1,13 @@
+# Dependencias necesarias para este proyecto.
+# El repositorio original NO incluía este archivo; se agregó como parte
+# de la actividad para dejar documentadas las librerías utilizadas.
+#
+# Instalación:
+#   pip install -r requirements.txt
+
+tensorflow>=2.15
+numpy
+Pillow
+opencv-python
+matplotlib
+h5py
